@@ -1,0 +1,23 @@
+IP Ports Diff Report for DE1_SoC_QSYS
+Thu Jun 22 13:12:35 2023
+Quartus Prime Version 16.1.2 Build 203 01/18/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. IP Information
+
+
+
++--------------------------------------------------------------+
+; IP Information                                               ;
++----------------------+---------------------------------------+
+; IP Variation Name    ; DE1_SoC_QSYS                          ;
+; Prior Version        ; ACDS_v14.1                            ;
+; New Version          ; ACDS_v16.1                            ;
+; New File             ; DE1_SoC_QSYS/synthesis/DE1_SoC_QSYS.v ;
+; Has Port Differences ; No                                    ;
++----------------------+---------------------------------------+
+
+
